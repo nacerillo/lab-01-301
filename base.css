@@ -1,0 +1,36 @@
+section {
+  outline: solid 1px black;
+}
+
+.middle-boxes {
+  outline: solid 1px black;
+}
+#footer {
+  background: blue;
+  outline: solid 1px black;
+}
+
+#sec-a {
+  background-color: rgb(81, 81, 252);
+}
+#sec-b {
+  background-color: rgb(76, 76, 187);
+}
+#sec-c {
+  background-color: rgb(50, 50, 148);
+}
+#sec-d {
+  background-color: rgb(47, 47, 104);
+}
+#art-e {
+  background-color: rgb(104, 47, 99);
+}
+#art-f {
+  background-color: rgb(165, 50, 155);
+}
+#art-g {
+  background-color: rgb(131, 24, 122);
+}
+#art-h {
+  background-color: rgb(90, 2, 83);
+}
