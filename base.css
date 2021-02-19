@@ -34,3 +34,35 @@ section {
 #art-h {
   background-color: rgb(90, 2, 83);
 }
+
+@media screen and (min-width: 770px) {
+  #footer {
+    background: red;
+    outline: solid 1px black;
+  }
+
+  #sec-a {
+    background-color: rgb(238, 48, 14);
+  }
+  #sec-b {
+    background-color: rgb(163, 19, 19);
+  }
+  #sec-c {
+    background-color: rgb(212, 66, 30);
+  }
+  #sec-d {
+    background-color: rgb(155, 49, 22);
+  }
+  #art-e {
+    background-color: rgb(175, 72, 25);
+  }
+  #art-f {
+    background-color: rgb(248, 162, 64);
+  }
+  #art-g {
+    background-color: rgb(184, 110, 27);
+  }
+  #art-h {
+    background-color: rgb(204, 65, 0);
+  }
+}
